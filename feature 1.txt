@@ -1,0 +1,3 @@
+dont merge and now squash
+
+feature 2 commit bug change
